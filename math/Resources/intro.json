@@ -1,0 +1,13 @@
+
+{
+    "intro": {
+        "greeting": "Nice to meet you! What's your name?",
+        "name_confirmation": "I like that name, {name}.",
+        "name_recognition": "Hello again, {name}!",
+        "new_user_prompt": "It’s great to meet you. Let’s get to know each other!",
+        "memory_loading": "Let me remember what we talked about last time...",
+        "memory_creation": "Great, {name}. Let’s see where this takes us!",
+        "leading_question": "What would you like to talk about today? You can choose topics like relationships, exams, study, or how you're feeling.",
+        "error_handling": "Oops, something went wrong. Let’s try that again."
+    }
+}

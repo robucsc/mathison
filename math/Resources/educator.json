@@ -1,0 +1,9 @@
+{
+    "educator": {
+      "academic_check": "How are your studies going?",
+      "struggle_ask": "Are there any subjects you’ve been struggling with?",
+      "support_prompt": "It sounds like {topic} has been challenging for you. Would you like to study that more?",
+      "future_goal": "What do you want to achieve this semester?",
+      "fallback": "Let’s keep at it. You’ll get through this!"
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "relationships": {
+      "greeting": "Let's talk about your relationships.",
+      "prompt": "Is there someone in your life you'd like to talk about?"
+    }
+  }

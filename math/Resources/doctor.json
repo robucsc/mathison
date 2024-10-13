@@ -1,0 +1,9 @@
+{
+    "doctor": {
+      "feeling_ask": "How are you feeling today?",
+      "why_feel": "Why do you feel {emotion}?",
+      "relationship_prompt": "Has your {relationship} been affecting you lately?",
+      "general_reflection": "It seems like you're thinking a lot about {topic}. Want to talk more about that?",
+      "fallback": "Can you tell me more about what’s on your mind?"
+    }
+  }

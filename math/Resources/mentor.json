@@ -1,0 +1,10 @@
+{
+    "mentor": {
+      "future_ask": "Where do you see yourself in the future?",
+      "goal_ask": "What long-term goals are you working towards right now?",
+      "reflection_prompt": "It sounds like {goal} is really important to you. How do you plan to get there?",
+      "challenge_prompt": "What’s been the biggest challenge for you lately?",
+      "support_prompt": "It’s great that you’re thinking about {goal}. Do you want to explore more steps you could take?",
+      "fallback": "Let's reflect on where you’re heading and how you want to grow."
+    }
+  }

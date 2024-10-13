@@ -1,0 +1,65 @@
+By running locally on one's device is more sustainable since it will not be relianent on large AIs running on huges power hungry computers.
+
+
+
+Scripts:
+
+Mentor Script Overview:
+
+	•	Future-Focused: This script encourages thinking about long-term goals and personal development.
+	•	Reflection and Support: It offers reflective prompts, allowing the user to explore their goals and challenges.
+	•	Challenge and Growth: It helps users think about their personal or professional challenges and how to overcome them.
+
+Friend Script:
+
+A friendly, supportive tone to encourage open conversation about daily life or relationships.
+
+Educator Script:
+
+This script offers academic support, whether as a teacher or TA.
+
+
+
+Personal data privacy and security thoughts.
+
+32 char random alphanumeric user name, saved to a hash table.
+
+User name encryption:
+
+Calculating this:
+
+62^{32} \approx 2.21 \times 10^{57}
+
+This is an extremely large number of possible combinations.
+
+3. Brute-Force Attack:
+
+A brute-force attack involves trying every possible combination of characters until the correct one is found. Let’s assume a powerful attacker can make 1 billion guesses per second (which is optimistic given current hardware capabilities).
+
+	•	1 billion guesses per second = 10^9 guesses per second.
+
+Now, let’s calculate how long it would take:
+
+
+\text{Time (in seconds)} = \frac{2.21 \times 10^{57}}{10^9} = 2.21 \times 10^{48} \text{ seconds}
+
+
+4. Converting Time:
+
+We can convert 2.21 × 10^{48} seconds into years:
+
+
+\text{Time (in years)} = \frac{2.21 \times 10^{48}}{60 \times 60 \times 24 \times 365} \approx 7 \times 10^{40} \text{ years}
+
+
+Conclusion:
+
+Even with a billion guesses per second, it would take approximately 7 × 10^{40} years to brute-force a 32-character alphanumeric file name. To put this in perspective, the age of the universe is estimated to be about 13.8 billion years (~1.38 × 10^10 years).
+
+Summary:
+
+	•	It would take an incomprehensible amount of time to crack a 32-character alphanumeric file name using brute force—far longer than the age of the universe.
+	•	While not as cryptographically secure as using a strong hash like SHA-256, a 32-character alphanumeric string is extremely difficult to brute-force.
+
+This provides a very strong level of security for your file names, even before adding encryption to the contents.
+

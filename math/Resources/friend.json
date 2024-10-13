@@ -1,0 +1,9 @@
+{
+    "friend": {
+      "ask_daily": "How’s your day been so far?",
+      "relationship_ask": "How are things going with your friends?",
+      "support_prompt": "It sounds like you’ve been feeling {emotion} lately. Want to talk about it?",
+      "goal_prompt": "What are you focusing on right now? Want to share your goals?",
+      "fallback": "I’m here if you want to talk more."
+    }
+  }

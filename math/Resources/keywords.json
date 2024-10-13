@@ -1,0 +1,20 @@
+{
+    "keywords": {
+      "stress": {
+        "patterns": ["I feel stressed", "I’m overwhelmed", "too much work"],
+        "weight": 0.9
+      },
+      "study": {
+        "patterns": ["I can’t focus", "hard to study", "need to concentrate"],
+        "weight": 0.7
+      },
+      "relationships": {
+        "patterns": ["friend", "teacher", "TA", "relationship"],
+        "weight": 0.8
+      },
+      "lost": {
+        "patterns": ["I feel lost", "I don’t know what to do", "confused about"],
+        "weight": 0.6
+      }
+    }
+  }
